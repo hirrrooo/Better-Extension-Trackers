@@ -5,11 +5,19 @@ One frustration many encounter when making DIY SlimeVR tracker sets is extension
 Within this GitHub Repository, you’ll find files to make your own Carrier PCBs, 3D-printing files for extension cases for the PCBs, information on prolonging the longevity and reliability of JST Cables, and other helpful information. 
 
 # Extension Carrier PCBs
-**Downloads on Link Click!**
+**Downloads upon link click!**
 
 BMI/LSM Pinout - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BMI%20Pinout/Production%20Gerber%20BMI%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BMI%20Pinout/EasyEDA%20BMI%20Pinout.epro)
 
 BNO085 - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/Production%20Gerber%20BNO%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/EasyEDA%20BNO%20Pinout.epro)
+
+# JST Cable
+Required Specs - **Mirrored // 1.25mm Pitch // 4 or 5 pin.**
+
+[AliExpress Source](https://www.aliexpress.us/item/3256802516363127.html?spm=a2g0o.order_list.order_list_main.5.17231802YL7W6Q&gatewayAdapt=glo2usa) 
+> Please check for the right selection of options.
+
+For Ankle to Foot Extensions, I recommend 20 or 30 cm.
 
 ## Heat-shrink Tubing (Not Recommended after testing; treat JST Cables as consumables or buy upgraded JST Cables from SlimeVR Store).
 - Preferred Specifications
@@ -30,7 +38,7 @@ For BNO085 Pinout: [File Preview](https://github.com/hirrrooo/Better-Extension-T
 ### Printing Recommendations
 
 - PETG or Better Recommended
-- **Ensure a pause is inserted allowing for embedded installation of aux module.**
+- **Ensure a pause is inserted, allowing for embedded installation of the aux module.**
 - Disable Supports
 - Default "Standard // Strength" settings are fine.
-- Ensure the filament/printer you are using is tuned well for overhangs.
+- Ensure the filament/printer you use is tuned well for overhangs.
