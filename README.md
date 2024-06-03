@@ -3,7 +3,8 @@
 One frustration many encounter when making DIY SlimeVR tracker sets is extension trackers; instead of ignoring the issues or just straight-up avoiding extension trackers, let's address them and try to resolve them! 
 
 Within this GitHub Repository, you’ll find files to make your own Carrier PCBs, 3D-printing files for extension cases for the PCBs, information on prolonging the longevity and reliability of JST Cables, and other helpful information. 
-
+### Personal Opinion Note
+I can only recommend using extension trackers for feet :p
 # Extension Carrier PCBs
 **Downloads upon link click!**
 
