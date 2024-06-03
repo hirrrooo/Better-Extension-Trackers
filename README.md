@@ -12,12 +12,18 @@ BMI/LSM Pinout - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trac
 BNO085 - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/Production%20Gerber%20BNO%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/EasyEDA%20BNO%20Pinout.epro)
 
 # JST Cable
+### SlimeVR Store Source
+https://shop.slimevr.dev/collections/all 
+
+### AliExpress Source
 Required Specs - **Mirrored // 1.25mm Pitch // 4 or 5 pin.**
 
 [AliExpress Source](https://www.aliexpress.us/item/3256802516363127.html?spm=a2g0o.order_list.order_list_main.5.17231802YL7W6Q&gatewayAdapt=glo2usa) 
 > Please check for the right selection of options.
 
 For Ankle to Foot Extensions, I recommend 20 or 30 cm.
+
+
 
 ## Heat-shrink Tubing (Not Recommended after testing; treat JST Cables as consumables or buy upgraded JST Cables from SlimeVR Store).
 - Preferred Specifications
