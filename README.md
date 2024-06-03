@@ -7,7 +7,7 @@ Within this GitHub Repository, you’ll find files to make your own Carrier PCBs
 # Extension Carrier PCBs
 **Downloads on Link Click!**
 
-BMI/LSM Pinout - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/Production%20Gerber%20BNO%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BMI%20Pinout/EasyEDA%20BMI%20Pinout.epro)
+BMI/LSM Pinout - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BMI%20Pinout/Production%20Gerber%20BMI%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BMI%20Pinout/EasyEDA%20BMI%20Pinout.epro)
 
 BNO085 - [Gerber File](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/Production%20Gerber%20BNO%20Pinout.zip)  //  [EasyEda](https://github.com/hirrrooo/Better-Extension-Trackers/raw/main/PCB%20Files/BNO%20Pinout/EasyEDA%20BNO%20Pinout.epro)
 
